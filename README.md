@@ -4,7 +4,7 @@ Colony Lost in Deep Space 1.12
 ======
 This is the official repository and issue-tracker for Colony Lost in Deep Space 1.12
   
-#### Curse Links: 
+#### Modpack Links: 
 + https://www.curseforge.com/minecraft/modpacks/lost-in-deep-space/files  
 + https://www.technicpack.net/modpack/colony-lost-in-deep-space.1587981  
 + https://atlauncher.com/pack/ColonyLostinDeepSpace    
