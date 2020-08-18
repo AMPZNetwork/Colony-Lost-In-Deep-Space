@@ -1,6 +1,72 @@
 §lUpdate History
 §l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
+0.1.9r
+ 
+§1Yes old worlds should be compatible, you will get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
+ 
+§lNew Mods:
+*FTB Backup
+*Foam​Fix
+*UniDict
+*Yung's Better Caves
+*Yung's Better Mineshafts
+*Yung's Save My Stronghold
+*Wasaila (What Agricraft Stats Am I Looking At)
+*Just Enough Reactors
+*Just Enough Energistics
+*JustEnoughIDs
+*MPUtils Basic Tools
+*MPUtils
+
+
+§lServer Utilities:
+
+
+§lFixes/changes
+*Fixed CraftPrecnce multiplayer status saying "playing MPServer"
+*Fixed the following Mysticalagriculture Json files (thanks to @Nukeofwf) 
+- Grains of infinity
+- Tier 5 Inferium Plant, 
+- Tritanium Plant
+- Dilithium Plant
+- End Steel Plant 
+*Added 3 new loading tips
+*Added missing server IP
+*Earth moon no longer requires a research paper in order to travel there
+*Changed how Discord Rich Presence displays pack info
+*Enabled Applied Energistics 2 facades
+*Disabled Quark's Crystal Caves
+*Disabled Quark's glowshroom underground biome
+*Small pack logo tweak
+*Main menu tweaks
+*New loading screen background
+*KAC file updated
+
+ 
+§l§cRemoved Mods:
+*In-Game Wiki Mod
+*Dynamic Surroundings 
+ 
+§lMod Updates:
+*Updated Forge (2847 → 2854)
+*BiomesOPlenty (7.0.1.2441 → 7.0.1.2444)
+*Interstellar: Exoplanets (0.0.8.16 → 0.1.1)
+*More Planets (2.0.24-GC251 → 2.1.12-GC251)
+*ExtraPlanets (0.6.6 → 0.7.0)
+*Planet Progression (0.4.4 → 0.4.5)
+*AsmodeusCore (0.0.17 → 0.0.18)
+*EnderIO to (5.1.55 → 5.2.59)
+*Just Enough Items (4.15.0.291 → 4.15.0.297)
+*NetherEx (2.1.7 → 2.1.8)
+*RandomPatches (1.21.0.3 → 1.22.1.2)
+*CraftPresence (1.6.8 → 1.7.0)
+*CraftTweaker2 (4.1.20.574 → 4.1.20.583)
+*Controlling (3.0.9 → 3.0.10)
+*Sound Filters (0.12 → 0.12.1)
+*MJRLegends Lib (1.1.9 → 1.2.0)
+---------------------------------------------------------------------------------
 0.1.8r
  
 §1Yes old worlds should be compatible, you will get a message about missing entries,
