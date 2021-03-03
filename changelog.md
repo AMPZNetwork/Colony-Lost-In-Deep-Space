@@ -2,6 +2,89 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0 | Chapter II</h1>
+
+<h4>No old worlds and servers will not be compatible with v2.0.</h4>
+
+**Updated:**
++ Minecraft Forge (14.23.5.2854 → 14.23.5.2855)
++ AsmodeusCore (0.0.20 → 0.0.24)
++ CraftPresence (1.7.2 → 1.7.6)
++ CraftTweaker (4.1.20.594 → 4.1.20.624)
++ EnderIO (5.2.61 → 5.2.66)
++ ExtraPlanets (0.7.0 → 0.7.2)
++ More Planets (2.1.14-GC261 → 2.2.1-GC280)
++ Extreme Reactors (0.4.5.67 → 0.4.5.68)
++ Farseek (2.5 → 2.5.1)
++ Foam​Fix (0.10.10 → 0.10.11)
++ GunpowderLib (1.0 → 1.1)
++ It's the little things (1.0.2 → 1.0.3)
++ LibraryEx (1.1.3 → 1.2.1)
++ RandomPatches (1.22.1.7 → 1.22.1.10)
++ Streams (0.4.8 → 0.4.9)
++ UniDict (2.9.7 → 3.0.6)
++ ZeroCore 2 (0.1.2.8 → 0.1.2.9)
++ Better Mineshafts (2.1.1 → 2.2)
++ Integration Foregoing (1.10 → 1.11)
++ Buildcraft (7.99.24.7 → 7.99.24.8)
+
+**Changed/Fixed**
++ Removed Official Server
++ New Main Menu Logo
++ Main Menu and Pause Menu Overhaul
++ Fixed Main Menu music overlap
++ Added our Minecraft Partner affiliate link under a new button called "Rent a Server!"
++ Moved Tips location to the bottom left of the screen.
++ Moved Minimap to top right of screen and made the size smaller
++ Better changelog layout
++ Disabled duplicate ores
++ Lowered the spawn rate of slim islands
++ Bunch of bug fixes
++ Updated KAC File
+
+**Added:**
++ Galaxy Space
++ Zollern Galaxy
++ Engineer's Decor
++ Engineer's Tools
++ Engineer's Doors
++ FancyMenu
++ Tips
++ OldJavaWarning
++ Smooth Scrolling Everywhere
++ JAOPCA
++ JAOPCA Agriculture
++ Oh The Biomes You'll Go
++ FallingTree
++ JEI Villagers
++ Future MC
++ Streams
++ Better Animations Collection 2
++ Bad Wither No Cookie - Reloaded
+
+
+**Server Utilities:**
+
+
+**Removed:**
++ Treecapitator
++ Custom Main Menu
++ MPUtils
++ MPUtils Basic Tools
++ Fancy Block Particles
++ Interstellar: Exoplanets
++ Default World Generator
++ Nether Chest
++ NetherEx
++ Villager Names
++ Galacticraft Tweaker
++ Roguelike Dungeons
++ Bloodmoon
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>0.1.9.1-r</h1>
 <h4>Yes V0.1.9-r is compatible with this build,<br>
 no need to update server files.</h4>
