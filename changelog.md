@@ -2,6 +2,42 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.1</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ AsmodeusCore (0.0.24 → 0.0.25)
++ CraftTweaker (4.1.20.624 → 4.1.20.632)
++ Galaxy Space (2.0.15 → 2.0.16)
++ Konkrete (1.1.3 → 1.1.5)
++ SteveKunG's Lib (1.1.9 → 1.1.10)
++ UniDict (3.0.6 → 3.0.7)
++ YUNG's Better Mineshafts (2.2 → 2.2.1)
+
+**Changed/Fixed**
++ Fixed Auto Jump button not showing.
++ Fixed Main Menu Player heads all being default Steve.
++ Added our Official Guilded Server.
++ Added custom agricraft harvestcraft seeds.
++ Disabled auto jump by default.
++ Reduced Particels from All to Minimal.
+
+**Added:**
++ Client Tweaks
+
+
+**Server Utilities:**
+
+
+**Removed:**
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.0 | Chapter II</h1>
 
 <h4>No old worlds and servers will not be compatible with v2.0.</h4>
