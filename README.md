@@ -10,7 +10,9 @@ This is the official repository and issue-tracker for Colony Lost in Deep Space 
 + https://www.technicpack.net/modpack/colony-lost-in-deep-space.1587981  
 + https://atlauncher.com/pack/ColonyLostinDeepSpace  
   
-Need Help?
+<p align="center">
+| <img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
+</p>
 ======
 When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
  
