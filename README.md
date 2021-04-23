@@ -6,9 +6,10 @@
 This is the official repository and issue-tracker for Colony Lost in Deep Space 1.12
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/lost-in-deep-space/files  
++ ![CurseForge](http://cf.way2muchnoise.eu/355315.svg "Lost in Deep Space") Colony: Lost in Deep Space (CurseForge) 
 + https://www.technicpack.net/modpack/colony-lost-in-deep-space.1587981  
 + https://atlauncher.com/pack/ColonyLostinDeepSpace  
+
   
 <p align="center">
 | <img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
