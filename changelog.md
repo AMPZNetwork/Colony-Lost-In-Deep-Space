@@ -2,6 +2,45 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.2</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ CraftPresence (1.7.6 → 1.8.1)
++ CraftTweaker (4.1.20.632 → 4.1.20.641)
++ JAOPCA (2.2.8.104 → 2.2.8.104)
++ Konkrete (1.1.5 → 1.1.6)
++ UniDict (3.0.7 → 3.0.8)
+
+**Changed/Fixed**
++ Added Official Server.
++ Fixed Music Overlap.
++ Fixed Forums menu button spelling mistake.
++ Disabled Extra Utilities 2 Chunk Loader.
++ Disabled Extra Utilities Wall World Type.
++ Disabled Mekanism Chunk Loader.
++ Updated Pack Logo font.
++ Sharpend font quallity. 
++ Moved Oxygen indercater to left side of screen.
++ Changed Applied Energistics 2 Power from AE to RF.
+
+**Added:**
++ 
+
+
+**Server Utilities:**
+
+
+**Removed:**
++ AI Improvements
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.0.1</h1>
 
 <h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
