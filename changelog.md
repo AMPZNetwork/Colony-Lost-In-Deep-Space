@@ -2,6 +2,49 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.3</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ JAOPCA (2.2.8.104 → 2.2.8.105)
++ FancyMenu (1.7.1 → 2.0.6)
+
+**Changed/Fixed**
++ Fixed an issue with in-game text to sometimes going dark.
++ Added the ability to mute the Main Menu.
++ Open Modular Turrets Power Unit is RF.
++ Open Modular Turrets uses mekanism for it's recipes by default.  
+
+**Added:**
++ Open Modular Turrets
++ OMLib
++ BspkrsCore (CurseForge only)
++ Tiny Progressions
++ Cooking for Blockheads
++ Farming for Blockheads
++ Macaw's Bridges
++ Macaw's Doors
++ Macaw's Windows
++ Macaw's Trapdoors
++ Macaw's Furniture
++ Macaw's Fences and Walls
+
+
+**Removed:**
++ FTB Backups
++ Client Tweaks
++ It's the little things
++ Foam​Fix
++ CraftTweaker
++ Smooth Scrolling
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.0.2</h1>
 
 <h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
