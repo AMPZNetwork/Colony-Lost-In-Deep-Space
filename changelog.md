@@ -2,6 +2,47 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.4</h1>
+
+<h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ FancyMenu (2.0.6 → 2.0.7-1)
++ Agricraft (1.12.0-a6 → 1.12.2-b2)
++ InfinityLib (1.12.0 → 1.12.1)
++ EnderIO (5.2.66 → 5.3.70)
++ Zollern Galaxy (v2.0.26 → v2.0.29)
++ JAOPCAAgriculture (1.2.1.16 → 1.2.1.17)
+
+
+**Changed/Fixed**
++ Fixed a visual glitch with the main menu button textures.
++ Updated Main Menu music.
++ Updated Discord logo.
++ Renamed What's New to Patch Notes.
++ Renamed Rent a Server to Make a Server.
++ Enabled Quark's Sign Edit.
++ Re-designed MOJANG Loading Screen.
+
+**Added:**
++ Custom Loading Screen
++ World Book
++ Aqua Acrobatics
++ Morpheus
++ Mouse Tweaks.
+
+
+**Removed:**
++ OptiFine
++ Unloader
++ Better Animations Collection 2
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.0.3</h1>
 
 <h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
