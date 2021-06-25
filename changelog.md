@@ -2,6 +2,44 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.5</h1>
+
+<h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ AsmodeusCore (0.0.25 → 2.0.7-1)
++ CraftPresence (1.8.1 → 1.8.2)
++ ExtraPlanets (0.7.2 → 0.7.3)
++ MJRLegends Lib (1.2.0 → 1.2.1)
++ Macaw's Doors (1.0.0 → 1.0.3)
+
+
+**Changed/Fixed**
++ Added a suggestion button located on the pause menu.
++ Added a mods option located in options.
++ Fixed missing mod.
++ Fixed CraftPresence not displaying player activity.
++ Tweaked loading tips.
++ Removed leftover assists. 
++ Replaced Guilded Server with our Instagram account.
++ KAC file updated.
+
+
+**Added:**
++ Tinkers Tool Levelling
++ OptiFine (ATLauncher and Technic Only)
+
+
+**Removed:**
++ Custom Loading Screen.
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
+
 <h1>2.0.4</h1>
 
 <h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
