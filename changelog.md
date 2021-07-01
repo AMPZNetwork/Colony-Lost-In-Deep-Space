@@ -2,6 +2,29 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.5.2 </h1>
+
+<h4>Yes old worlds may be compatible, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ 
+
+**Changed/Fixed**
++ Fixed an issue with some broken configs.
+
+
+**Added:**
++ 
+
+**Removed:**
++ MatterOverdrive
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.0.5.1 (Hotfix)</h1>
 
 <h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
