@@ -2,6 +2,61 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.1</h1>
+
+<h4>Yes old worlds may be compatible, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Macaw's Bridges (1.0.4 → 1.0.6b)
++ Planet Progression (0.4.5 → 0.4.6)
++ AsmodeusCore (0.0.25 → 0.0.26)
++ CraftPresence (1.8.2 → 1.8.4)
++ ExtraPlanets (0.7.2 → 0.7.3)
++ Galaxy Space (2.0.16 → 2.0.16)
++ LibraryEx (1.2.1 → 1.2.2)
++ MJRLegends Lib (1.2.0 → 1.2.1)
++ FancyMenu (2.0.7-1 → 2.2.2-1)
++ Konkrete (1.1.6 → 1.1.7)
++ MrCrayfish Gun Mod (0.15.3 → 0.15.3)
++ Tesla Core Lib (1.0.17 → 1.0.18)
+
+
+**Changed/Fixed**
++ Re-Designed Main Menu.
++ Added a Recommended Texture Pack button located in Resource Packs menu.
++ Added Microsoft Ingame Re-Login support.
++ Removed Faithful in favour of our Recommend Pack
++ Disabled Nuclear Bomb from Extra Planets.
++ Disabled Radiation effect on Space Stations.
++ Disabled Quarks Marble.
++ Disabled Quarks Limestone.
++ Disabled Custom Menu Music from playing while loading into a world/server.
++ Enabled Extra Planets compatibility mode for More Planets.
++ Cleaned up some leftover configs.
+
+**Added:**
++ Immersive Petroleum
++ Jade
++ OAuth
++ My Server Is Compatible
++ Tree Harvester
+
+**Removed:**
++ Oh The Biomes You'll Go
++ Crash to Main Menu
++ ReAuth
++ Better Invalid Session
++ BetterFPS 
++ Hwyla
++ Wawla - What Are We Looking At
++ FallingTree
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.0.5.2 </h1>
 
 <h4>Yes old worlds may be compatible, you will get a message about missing entries,<br> 
