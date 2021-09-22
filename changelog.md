@@ -10,7 +10,7 @@ just click yes to accept changes and your world should load fine.</h4>
 **Updated:**
 + CraftPresence (1.8.4 → 1.8.7)
 + Engineer's Decor (1.1.2 → 1.1.3)
-+ FancyMenu (2.2.2-1 → 2.3.1)
++ FancyMenu (2.2.2-1 → 2.3.0)
 + Konkrete (1.1.7 → 1.3.0)
 + OAuth (1.04 → 1.06.1)
 + OMLib (3.1.4-249 → 3.1.5-256)
