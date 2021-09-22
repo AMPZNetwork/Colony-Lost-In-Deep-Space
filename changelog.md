@@ -2,6 +2,38 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.1.1</h1>
+
+<h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ CraftPresence (1.8.4 → 1.8.7)
++ Engineer's Decor (1.1.2 → 1.1.3)
++ FancyMenu (2.2.2-1 → 2.3.1)
++ Konkrete (1.1.7 → 1.3.0)
++ OAuth (1.04 → 1.06.1)
++ OMLib (3.1.4-249 → 3.1.5-256)
++ Open Modular Turrets (3.1.12-378 → 3.1.14-382)
+
+
+**Changed/Fixed**
++ Fixed startup missing mod dependancy. 
++ Fixed Oven from Cooking for Blockheads requiring oil to work.
+
+**Added:**
++ Pam's HarvestCraft
++ Wawla - What Are We Looking At
+
+
+**Removed:**
++ What Agricraft Status am I Looking At
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.1</h1>
 
 <h4>Yes old worlds may be compatible, you will get a message about missing entries,<br> 
