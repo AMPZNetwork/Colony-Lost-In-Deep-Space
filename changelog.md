@@ -1,7 +1,37 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Colony: Lost in Deep Space | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>2.1.2</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Minecraft Forge (14.23.5.2855 → 14.23.5.2860)
++ CraftPresence (1.8.7 → 1.8.8)
++ FancyMenu (2.3.0 → 2.4.3-1)
++ Future MC (0.2.6.1 → 0.2.7.4)
++ Konkrete (1.3.0 → 1.3.2-1)
+
+
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Server Files are now using our new SIMPLE FILES setup.
++ Updated Server files (recommend all server owners to use the new files provided).
+
+**Added:**
++ 
+
+
+**Removed:**
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+
+---------------------------------------------------------------------------------------------
 <h1>2.1.1</h1>
 
 <h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
