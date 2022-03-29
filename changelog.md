@@ -1,6 +1,76 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Colony: Lost in Deep Space | Patch Notes</h1>
-<h2>Be sure to always backup your world(s) before updating!</h2>
+## Be sure to always backup your world(s) before updating!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.2</h1>
+
+<h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ AsmodeusCore (0.0.26 → 0.0.30)
++ Biomes O' Plenty (7.0.1.2444 → 7.0.1.2445)
++ Collective (2.64 → 3.0)
++ ExtraPlanets (0.7.3 → 0.7.4)
++ Engineer's Decor (1.1.3 → 1.1.4)
++ Future MC (0.2.7.4 → 0.2.9)
++ FancyMenu (2.4.3-1 → 2.6.4)
++ Galaxy Space (2.0.16 → 2.0.18)
++ JAOPCA (2.2.8.105 → 2.2.8.106)
++ JustEnoughIDs (1.0.3-55 → 1.0.4)
++ Konkrete (1.3.2-1 → 1.3.3)
++ Macaw's Trapdoors (1.0.2 → 1.0.3)
++ MixinBootstrap (1.0.5 → 1.1.0)
++ More Planets (2.2.1 → 2.2.2)
++ OAuth (1.06.1 → 1.06.3)
++ SteveKunG's Lib (1.1.10 → 1.2.0)
++ Tree Harvester (3.2 → 4.0)
++ UniDict (3.0.8 → 3.0.10)
++ WanionLib (2.5 → 2.9)
+
+
+**Changed/Fixed**
++ Fixed "More Packs" and "CurseForge" buttons URL.
++ Fixed an rare crash that would happen if a player used /dimensiontp command.
++ Improved the custom main menu music behaviour.
++ Changed Research Type from Paper To Satellite.
++ Changed the default Minecraft font.
++ Moved Oxygen Indicator to the bottom left.
+
+**Added:**
++ Simple RPC
++ Gas Conduits
++ Stargate Network
++ Galacticraft Legacy
++ MixinBooter
++ Improved Backpacks
++ Yet Another Recipe Conflict Fixer (YARCF)
++ BisectHosting Server Integration Menu
++ Had Enough Items
++ Load My Resources
+
+
+**Removed:**
++ CraftPresence
++ AgriCraft
++ JAOPCAAgriculture
++ Mystical Agriculture
++ Mystical Agradditions
++ Galacticraft
++ GalacticraftCore
++ MicdoodleCore
++ Resource Loader
++ Smooth Font
++ Iron Backpacks
++ Just Enough Items
++ ZollernGalaxy
++ stimmedcow : NoMoreRecipeConflict
+
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
+
+---------------------------------------------------------------------------------------------
 
 <h1>2.1.2</h1>
 
@@ -28,8 +98,7 @@ just click yes to accept changes and your world should load fine.</h4>
 **Removed:**
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
 
 ---------------------------------------------------------------------------------------------
 <h1>2.1.1</h1>
@@ -60,8 +129,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + What Agricraft Status am I Looking At
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
 
 ---------------------------------------------------------------------------------------------
 <h1>2.1</h1>
@@ -115,8 +183,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + FallingTree
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
 
 ---------------------------------------------------------------------------------------------
 <h1>2.0.5.2 </h1>
@@ -165,8 +232,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + 
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
 
 ---------------------------------------------------------------------------------------------
 
@@ -203,8 +269,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + Custom Loading Screen.
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
 
 ---------------------------------------------------------------------------------------------
 
