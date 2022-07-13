@@ -1,4 +1,4 @@
-![](https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_Header.png)
+![](https://www.bisecthosting.com/images/CF/Colony/BH_NU_HEADER.png)
 
 ======
 
@@ -25,4 +25,4 @@ Looking for a Reliable Server Host?
 ======
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
-[![](https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_PromoCard.png)](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/Colony/BH_NU_PROMO.png)](https://bisecthosting.com/AMPZ)
