@@ -1,7 +1,52 @@
+[![](https://www.bisecthosting.com/images/CF/Colony/BH_NU_PROMO.png)](https://bisecthosting.com/AMPZ)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Colony: Lost in Deep Space | Patch Notes</h1>
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.3 - Create your Own Solar System</h1>
+
+<h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ AsmodeusCore (0.0.30 → 0.0.31)
++ Engineer's Decor (1.1.4 → 1.1.5)
++ FancyMenu (2.6.4 → 2.12.1)
++ Future MC (0.2.9 → 0.2.11)
++ Galacticraft Legacy (4.0.2.284 → 4.0.3)
++ Galaxy Space (2.0.18 → 2.0.19)
++ Had Enough Items (4.18.2 → 4.23.0)
++ Konkrete (1.3.3 → 1.5.0)
++ More Planets (2.2.2-GC280 → 2.2.4-GC284)
++ MixinBooter (4.2 → 5.0)
++ OAuth (1.06.3 → 1.06.4)
++ Simple Discord RPC (2.7.2 → 3.1.1)
+
+**Changed/Fixed**
++ Brand new pack logo and main menu design.
++ Brand new main menu music (safe for streaming).
++ Added **"Technoblade Never Dies!"** to the splash.txt.
++ Fixed an issue with the server files failing to download the needed mods due to CurseForge API change.
++ Fixed bamboo spawning.
++ Removed "Recommended Pack" button.
++ Removed the ability to reauth with a Mojang account.
++ Lowered the default music to 50% by default.
++ Minor changes to Main Menu.
++ See our [Discord Channel](https://discord.com/channels/495506209881849856/996787619260285068) to find out how to use starmaker.
+
+**Added:**
++ Clumps
++ StarMaker
+
+**Removed:**
++ Kinetic Anti-Cheat
++ World Book
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
+
+---------------------------------------------------------------------------------------------
 <h1>2.2</h1>
 
 <h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
