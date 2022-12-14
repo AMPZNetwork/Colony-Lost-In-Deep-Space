@@ -4,6 +4,42 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.3.1</h1>
+
+<h4>Remember to to backup your starmaker config folder if you have modifyied it else it will be reset</4>
+
+**Updated:**
++ ExtraPlanets (0.7.3 → 0.7.4)
++ FancyMenu (2.12.1 → 2.13.0)
++ Galacticraft Legacy (4.0.3 → 4.0.4)
++ Konkrete (1.5.0 → 1.6.0)
++ Load My Resources (1.0.1 → 1.0.4)
++ MixinBooter (5.0 → 7.0)
++ Planet Progression (0.4.6 → 0.4.8)
+
+**Changed/Fixed**
++ Fixed a crash issue when a player leaves the server during researching in the telescope.
++ Attempted to fix an issue that caused some planets/moons to show as not unlocked if already unlocked them before updating to v2.3.
++ Re enabled information for planets.
++ UI tweaks.
++ General performance improvements.
+
+**Added:**
++ Just Enough Items
++ Blur
+
+**Removed:**
++ Macaw's Bridges 
++ Macaw's Doors
++ Macaw's Trapdoors
++ Macaw's Furniture
++ Macaw's Windows
++ Macaw's Fences and Walls
++ Had Enough Items
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
+
+---------------------------------------------------------------------------------------------
 <h1>2.3 - Create your Own Solar System</h1>
 
 <h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
