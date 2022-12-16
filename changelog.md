@@ -6,7 +6,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1>2.3.1</h1>
 
-<h4>Remember to to backup your starmaker config folder if you have modifyied it else it will be reset</4>
+<h4>Remember to to backup your starmaker config folder if you have modifyied it else it will be reset</h4>
 
 **Updated:**
 + ExtraPlanets (0.7.3 → 0.7.4)
