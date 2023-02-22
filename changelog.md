@@ -4,6 +4,29 @@
 # Colony: Lost in Deep Space | Patch Notes</h1>
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.3.2</h1>
+
+<h4>Remember to to backup your starmaker config folder if you have modifyied it else it will be reset</4>
+
+**Updated:**
++ ExtraPlanets (0.7.3 → 0.7.5)
++ FancyMenu (2.13.0 → 2.13.3)
++ Galacticraft Legacy (4.0.4 → 4.0.5)
++ More Planets - Galacticraft Add-on (2.2.4-GC284 → 2.3.1-GC4.0.4)
+
+**Changed/Fixed**
++ Fixed server files crashing on Mac & Linux.
++ Fixed other planet/moon radiation values config resets upon loading game.
++ Fixed Celestial map planet duplicates.
++ Fixed fluid in tanks being lost after server reload.
++ Fixed Fronos not visible from Nibiru.
++ Removed Space Nether.
++ Updated CurseForge icon to their re-branded one.
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
+
+---------------------------------------------------------------------------------------------
 <h1>2.3.1</h1>
 
 <h4>Remember to to backup your starmaker config folder if you have modifyied it else it will be reset</h4>
