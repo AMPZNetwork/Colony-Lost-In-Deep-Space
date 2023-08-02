@@ -1,9 +1,48 @@
 [![](https://www.bisecthosting.com/images/CF/Colony/BH_NU_PROMO.png)](https://bisecthosting.com/AMPZ)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+----------------------------------------------------------------------------------------------- 
 # Colony: Lost in Deep Space | Patch Notes</h1>
 ## Be sure to always backup your world(s) before updating!
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+<h1>2.3.3 - Security Patch</h1>
+
+<h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
+
+**Updated:**
++ AsmodeusCore (0.0.31 → 1.0.0)
++ BisectHosting Server Integration Mod (1.3 → 2.4.0)
++ Controlling (3.0.10 → 3.0.12.2)
++ Ender IO (5.3.70 → 5.3.72)
++ EnderCore (0.5.76 → 0.5.78)
++ ExtraPlanets (0.7.5 → 0.7.6)
++ FancyMenu (2.13.3 → 2.14.9)
++ Galacticraft Legacy (4.0.5 → 4.0.6)
++ Gas Conduits (5.3.70 → 5.3.72)
++ Konkrete (1.6.0 → 1.6.1)
++ MixinBooter (7.0 → 8.3)
++ More Planets (2.3.1-GC4.0.4 → 2.3.2-GC4.0.5)
++ Placebo (1.6.0 → 1.6.1)
++ StarMaker (0.0.5 → 1.0.0)
++ SteveKunG's Lib (1.2.0 → 1.3.0)
+
+**Changed/Fixed**
++ Updated to address the recent bleeding pipe exploit. Learn more details [here](https://github.com/dogboy21/serializationisbad).
++ Fixed issue with Open Pre Launch Checklist keybind missing the GUI part at the end.
++ Fixed an issue with the basic Densifier output not working.
++ Added the ability to add moons for Overworld. Distance for secondary stars.
++ Addedd the ability to add new galaxies.
++ Replaced the Twitter bird titlescreen button with the new X logo.
+
+**Added:**
++ SerializationIsBad
++ Modern Splash
+
+**Removed:*
++ Blur
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
+
+---------------------------------------------------------------------------------------------
 <h1>2.3.2</h1>
 
 <h4>Remember to to backup your starmaker config folder if you have modifyied it else it will be reset</h4>
