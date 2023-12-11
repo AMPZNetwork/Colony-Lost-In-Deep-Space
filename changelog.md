@@ -1,7 +1,36 @@
-[![](https://www.bisecthosting.com/images/CF/Colony/BH_NU_PROMO.png)](https://bisecthosting.com/AMPZ?rcfcolony)
+[![](https://www.bisecthosting.com/images/CF/Colony/BH_NU_PROMO.png)](https://bisecthosting.com/AMPZ?rgitcolony)
  
 # Colony: Lost in Deep Space | Patch Notes
 ## Be sure to always backup your world(s) before updating!
+
+---
+
+## Version: 2.3.4
+
+### Remember to to backup your starmaker config folder if you have modified it else it will be reset
+
+### Updated:
+- BisectHosting Server Integration Mod (2.4.0 → 2.4.1)
+- ExtraPlanets (0.7.6 → 0.7.7)
+- Galaxy Space (2.0.19 → 2.1.1)
+- MixinBooter (8.3 → 8.8)
+- Modern Splash (1.2.2.2 → 1.3)
+- SerializationIsBad (1.3 → 1.5)
+- StarMaker (1.0.0 → 1.0.1)
+- WanionLib (2.9 → 2.91)
+
+### Changed/Fixed
+- Addressed a potential problem that might cause teleportation to the wrong location when reaching low levels on all planets' space stations.
+- Adjusted the rendering of the General Lander to reduce its height on the player, enhancing visibility of the player inside.
+- Resolved a crash related to Nature gas.
+- Fixed a crash occurring on the Mars Spacestation after placing any solar panel.
+- Increased the likelihood of nickel asteroid generation on the Overworld.
+- Granted immunity to lightning strikes for the Jupiter Lander Entity.
+- Updated the URL for the Store button.
+- Revised splash text.
+- Waystone teleporting is now enabled by default.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
 
 ---
 
