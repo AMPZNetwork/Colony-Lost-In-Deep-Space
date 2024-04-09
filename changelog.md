@@ -5,6 +5,45 @@
 
 ---
 
+## Version: 2.3.5
+
+### Remember to to backup your starmaker config folder if you have modified it else it will be reset
+
+### Updated:
+- AsmodeusCore (1.0.0 → 1.0.1)
+- Controlling (3.0.12.2 → 3.0.12.3)
+- Future MC (0.2.11 → 0.2.19)
+- Galaxy Space (2.1.1 → 2.1.3)
+- JourneyMap (5.7.1 → 5.7.1p2)
+- More Planets (2.3.2-GC4.0.5 → 2.3.3-GC4.0.6)
+- SerializationIsBad (1.5 → 1.5.2)
+- StarMaker (1.0.1 → 1.0.2)
+- SteveKunG's Lib (1.3.0 → 1.3.1)
+
+### Changed/Fixed
+- Resolved a startup crash related to SerializationIsBad [83](https://github.com/dogboy21/serializationisbad/issues/83).
+- Corrected a crash occurring with Galaxy Space Assembly Machines.
+- Addressed a crash caused by clicking a bucket on an entity.
+- Fixed a "Divide by zero" error when hovering over the Dark Energy Generator in the GUI.
+- Resolved an issue where fire was igniting in space while the player was in survival planet mode.
+- Ensured that Bees leave the hive even if not blocked.
+- Fixed a crash with the Grindstone caused by broken mod enchantments.
+- Scaffolding now breaks instantly as expected.
+- Updated the title screen splash.txt to load the resource pack splash.txt, matching vanilla Minecraft behavior.
+- Updated the Discord invite URL.
+- Removed reference to Technic tip.
+
+### Added:
+- AE2 Unofficial Extended Life
+- Blur
+
+### Removed:
+- Applied Energistics 2
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Colony-Lost-In-Deep-Space)
+
+---
+
 ## Version: 2.3.4
 
 ### Remember to to backup your starmaker config folder if you have modified it else it will be reset
